@@ -29,3 +29,10 @@ Use * or _ to make text italic and ** or __ to make it bold.
 </html>
 ```
 You add tripple backticks at the beginning and at the end of the code snippet. 
+
+### Task list
+- [ ] Headings and emphasies
+- [ ] Adding images
+- [ ] Adding code snippet
+- [ ] Adding task list
+To make a task list, you add `- [ ]` at the beginning of each task.
