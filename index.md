@@ -10,3 +10,7 @@ Create headings using the # symbol. The number of # symbols indicates the headin
 
 ### Emphasis
 Use * or _ to make text italic and ** or __ to make it bold.
+
+### Image
+![Open Source Image](https://www.techtarget.com/visuals/searchDataCenter/IBM_mainframe/datacenter_article_006.jpg)
+`![Open Source Image](https://www.techtarget.com/visuals/searchDataCenter/IBM_mainframe/datacenter_article_006.jpg)`
